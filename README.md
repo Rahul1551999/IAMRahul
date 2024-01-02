@@ -1,6 +1,6 @@
 #Hello I am Rahul.
 
-#I am currently studying MCA.
+#I completed my Masters in Computer Application.
 
 #I completed my gradutaion in BSC.IT.
 
